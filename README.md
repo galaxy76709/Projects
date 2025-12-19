@@ -1,51 +1,58 @@
----
+🌌 My Galaxy
+📌 Overview
 
-# 🌌 My galaxy:
+This repository serves as a personal and academic portfolio, gathering projects developed for learning, experimentation, and continuous improvement in software development.
+It is structured to provide clarity, organization, and ease of navigation.
 
-## 📌 O que você encontrará aqui?
+The content reflects my ongoing journey in programming, problem-solving, and software design.
 
-Este repositório é dividido em categorias para facilitar a navegação:
+📁 Repository Categories
 
-* **🎓 Atividades & Estudos:** Exercícios de lógica de programação (como os desafios do Beecrowd), algoritmos e pequenos projetos feitos durante cursos.
-* **💡 Ideias & Protótipos:** Rascunhos de ferramentas, scripts de automação e soluções para problemas do dia a dia que ainda estão em fase de teste.
-* **🎮 Jogos:** Pequenos games desenvolvidos para praticar lógica, física e interface gráfica.
-* **🛠️ Ferramentas & Utilitários:** Projetos úteis de código aberto que pretendo manter e evoluir.
+The projects are organized into the following categories:
 
-## 🛠️ Tecnologias Utilizadas
+🎓 Activities & Studies
+Programming logic exercises (such as Beecrowd challenges), algorithms, and small projects developed during courses and academic studies.
 
-Para dar vida a essas ideias, utilizo principalmente:
+💡 Ideas & Prototypes
+Experimental tools, automation scripts, and early-stage solutions for everyday problems, currently under testing and refinement.
 
-* **Java** (Foco em lógica e Backend)
-* **Python** (Automação e Ciência de Dados)
-* **JavaScript** (Web e Jogos simples)
-* **SQL** (Estruturação de bancos de dados)
+🎮 Games
+Small game projects created to practice logic, basic physics concepts, and graphical interfaces.
 
----
+🛠️ Tools & Utilities
+Open-source utilities and practical tools intended for long-term maintenance and evolution.
 
-## 📂 Estrutura do Repositório
+🛠️ Technologies
 
-Para manter a ordem no caos, os projetos seguem este padrão:
+The main technologies used throughout this repository include:
 
-```Project
+Java — Focused on programming logic and back-end development
+
+Python — Automation and data-related tasks
+
+JavaScript — Web development and simple game mechanics
+
+SQL — Database modeling and data structuring
+
+📂 Repository Structure
+
+To maintain consistency and organization, projects follow this structure:
+
 /
-├── atividades/         # Desafios de lógica (ex: Beecrowd, LeetCode)
-├── jogos/              # Projetos interativos e games
-├── ferramentas/        # Scripts e utilitários
-└── estudos/            # Anotações e mini-projetos de cursos
+├── activities/          # Programming challenges (e.g., Beecrowd, LeetCode)
+├── games/               # Interactive projects and games
+├── tools/               # Scripts and utility tools
+└── studies/             # Course notes and mini-projects
 
-```
+📈 Continuous Development
 
-## 📈 Evolução
+This repository is under continuous development.
+I believe that software is never truly finished, but rather constantly refined through refactoring, optimization, and learning.
 
-Este repositório está em **constante atualização**. Acredito que o código nunca está 100% pronto, mas sim em um eterno processo de refatoração e melhoria.
+Feedback, suggestions, and discussions are always welcome.
 
-Se você encontrar algo interessante, sinta-se à vontade para explorar os arquivos ou entrar em contato para trocarmos uma ideia!
+📫 Contact
 
----
+LinkedIn: https://www.linkedin.com/in/kayky-marques-a916a42b2/
 
-### 📫 Contato
-
-* **LinkedIn:** https://www.linkedin.com/in/kayky-marques-a916a42b2/
-* **Portfólio:** Em criacao!
-
----
+Portfolio: Under development
